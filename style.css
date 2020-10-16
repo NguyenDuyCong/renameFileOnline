@@ -1,0 +1,32 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background: url('https://image.freepik.com/free-vector/abstract-technology-particle-background_52683-25766.jpg');
+}
+
+.content-form {
+    background-color: #fff;
+    position: relative;
+    max-width: 400px;
+    min-width: 200px;
+    min-height: 250px;
+    top: 20%;
+    margin: auto;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.content-form .input-rename-file-form {
+    width: auto;
+    height: auto;
+    position: relative;
+    top: 25px;
+    display: block;
+}
+
+.content-form .input-rename-file-form #btn-rename {
+    position: relative;
+    top: 25px;
+    margin: auto;
+}
